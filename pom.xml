@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>admin</name>
+	      <username>admin</username>
 	      <url>http://52.66.142.95:9980/maheshlucky/repository/facebook-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>admin</name>
+	      <username>admin</username>
 	      <url>http://52.66.142.95:9980/maheshlucky/repository/facebook-snapchat/</url>
 	    </snapshotRepository>
 	    
